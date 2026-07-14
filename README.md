@@ -1,8 +1,8 @@
 # 🌾 Análisis de Rentabilidad y ROI de Cultivos en Stardew Valley
 
-[![Python]
-[![Pandas]
-[![Seaborn]
+[Python]
+[Pandas]
+[Seaborn]
 
 Análisis de datos detallado para determinar la rentabilidad real y el Retorno de Inversión (ROI) de todos los cultivos del juego **Stardew Valley**, proyectando su rendimiento financiero a lo largo de una estación estándar de 28 días.
 
