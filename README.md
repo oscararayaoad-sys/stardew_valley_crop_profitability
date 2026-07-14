@@ -28,8 +28,6 @@ Este proyecto unifica los datos de cultivos de todas las estaciones, limpia el r
 
 ## 📈 Visualización Destacada
 
-> *Inserta aquí el gráfico de barras horizontales de ROI que generamos en el notebook. Para subirlo, añade la imagen a tu repositorio de GitHub y apunta a ella abajo:*
-
 ![Top 3 Cultivos con Mayor ROI por Temporada](top_3_roi_stardew_valley.png)
 
 ---
